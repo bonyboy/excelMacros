@@ -1,6 +1,6 @@
-Sub prospectsInfluencers()
+Sub prospectsInfluencer()
 '
-' prospectsInfluencers Macro
+' prospectsInfluencer Macro
 '
 
 '
